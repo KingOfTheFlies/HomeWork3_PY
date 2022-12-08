@@ -4,7 +4,7 @@ from ..items import SpidersteamItem
 
 
 queries = ['indie', 'kids', 'novel']
-API = '3418ca8efdc7a84af03bb7fbc44ca490'
+API = ''
 
 
 def get_url(url):
